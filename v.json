@@ -1,0 +1,7 @@
+{
+    "released": true,
+    "version": 99,
+    "date": "March 3rd, 2020",
+    "changes": "Prevent Rockstar updates from breaking the tool (hopefully)|Fully automated updates, no more manual updating",
+    "link": "https://kaypls.github.io/SCTool/scm.min.js?callback"
+}
