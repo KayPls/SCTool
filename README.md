@@ -1,4 +1,5 @@
 # Social Club Tool
+Modified by Kay. Special thanks to the original dev, Senexis.
 
 ## Functionality
 This small tool provides you with some useful additional functionality Social Club itself does not yet offer:
